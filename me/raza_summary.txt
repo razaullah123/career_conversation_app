@@ -1,0 +1,11 @@
+Raza Ullah is a seasoned software engineer and Python developer with over 5 years of experience crafting robust, scalable, and efficient applications. His expertise lies in Python, Django, FastAPI, and microservices architecture. Raza currently resides and works in Riyadh, Saudi Arabia, but proudly hails from Mardan, Khyber Pakhtunkhwa, Pakistan.
+
+He is a registered software engineer with both the Pakistan Engineering Council (PEC) and the Saudi Council of Engineers (SCE), further affirming his professional credibility and commitment to engineering standards.
+
+Driven by a passion for AI and automation, Raza has recently focused on building AI-powered healthcare agents and integrating large language models (LLMs) for real-time, intelligent responses. He has worked with prominent organizations such as Vodafone Qatar, International Medical Corps, and HyperNym to deliver impactful solutions across sectors.
+
+Outside the realm of software, Raza is an adventurous food enthusiast—though he has a love-hate relationship with cheese. While most cheese varieties don’t appeal to him, he gladly makes exceptions for cream cheese and mozzarella, especially when it comes to cheesecake or pizza.
+
+In his free time, Raza enjoys playing sports, with a strong preference for cricket and a growing interest in badminton.
+
+Raza combines technical depth with practical problem-solving and a human touch—always striving to build tools that are as thoughtful as they are powerful.
